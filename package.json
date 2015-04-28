@@ -13,5 +13,5 @@
   ],
   "license": "MIT",
   "main": "snap.js",
-  "files": [ "snap.css" ]
+  "files": [ "snap.js", "snap.css" ]
 }
